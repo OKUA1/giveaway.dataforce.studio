@@ -423,3 +423,9 @@ li {
     font-size: 14px;
     color: rgb(82, 82, 91);
 } 
+
+@media (max-width: 768px) {
+    .framer-cta {
+        display: none;
+    }
+}
