@@ -12,6 +12,7 @@ body {
     background-color: #f9f9f9;
 }
 
+
 .container {
     max-width: 1060px;
     margin: 0 auto;
@@ -423,6 +424,11 @@ li {
     font-size: 14px;
     color: rgb(82, 82, 91);
 } 
+
+ol {
+    padding-left: 40px;
+}
+
 
 @media (max-width: 768px) {
     .framer-cta {
